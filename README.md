@@ -31,3 +31,13 @@ Ativando ambiente virtual:
 ```shel
 $ conda activate fiap
 ```
+
+## AWS
+
+### ECR
+
+![AWS ECR](./docs/ecr.png)
+
+### EKS
+
+![AWS EKS Cluster](./docs/eks-cluster.png)
