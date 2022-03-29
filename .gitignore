@@ -1,5 +1,7 @@
 # Dataset
-src/datasets/
+src/datasets/examples.txt
+src/datasets/examples_endpoint.txt
+src/datasets/valida.csv
 
 # Virtual Environment
 venv/
