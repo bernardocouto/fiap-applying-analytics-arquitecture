@@ -2,5 +2,8 @@
 src/datasets/examples.txt
 src/datasets/examples_endpoint.txt
 
+# MacOS
+.DS_Store
+
 # Virtual Environment
 venv/
