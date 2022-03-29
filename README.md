@@ -78,4 +78,28 @@ Imagem do container Docker enviada para o AWS ECR:
 
 Cluster criado no AWS EKS:
 
+![AWS EKS Create Cluster](./docs/eks-create-cluster.png)
+
+Visualização do Cluster pelo console da AWS:
+
 ![AWS EKS Cluster](./docs/eks-cluster.png)
+
+Lista dos serviços do *namespace*:
+
+![AWS EKS Cluster](./docs/eks-service.png)
+
+Descrição do serviço:
+
+![AWS EKS Cluster](./docs/eks-describe-service.png)
+
+Criação do *nodegroup*:
+
+![AWS EKS Node Group](./docs/eks-nodegroup.png)
+
+Criação dos nós:
+
+![AWS EKS Node Group](./docs/eks-node.png)
+
+Consumo do serviço através do Load Balance:
+
+![AWS Load Balance](./docs/load-balance.png)
