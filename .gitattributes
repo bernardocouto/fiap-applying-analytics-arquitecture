@@ -1,5 +1,7 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 *.ftz filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 src/datasets/test.txt filter=lfs diff=lfs merge=lfs -text
 src/datasets/train.txt filter=lfs diff=lfs merge=lfs -text
+src/datasets/validation.csv filter=lfs diff=lfs merge=lfs -text
 src/models/fasttext.ftz filter=lfs diff=lfs merge=lfs -text
