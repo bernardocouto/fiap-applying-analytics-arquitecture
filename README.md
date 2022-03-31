@@ -6,6 +6,24 @@
 * Raphael Freixo
 * Ronaldo Nolasco
 
+## Backlog
+
+Sprint 1:
+
+![Spring 1](./docs/backlog-1.jpeg)
+
+Sprint 2:
+
+![Spring 2](./docs/backlog-2.jpeg)
+
+Sprint 3:
+
+![Spring 3](./docs/backlog-3.jpeg)
+
+Sprint 4:
+
+![Spring 4](./docs/backlog-4.jpeg)
+
 ## Anaconda
 
 Iniciando Anaconda:
